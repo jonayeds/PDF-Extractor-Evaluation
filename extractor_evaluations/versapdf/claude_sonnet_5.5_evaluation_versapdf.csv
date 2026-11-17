@@ -1,0 +1,51 @@
+resume_name,extraction_name,extraction_score,key point
+data_science_1.pdf,data_science_1.md,6,"Real headers and job headings kept, but the summary is fused with the links line and dates run into bullets."
+data_science_2.pdf,data_science_2.md,1,Sidebar and main column interleaved mid-sentence with glued words and garbled glyphs (column bleed).
+data_science_3.pdf,data_science_3.md,2,"Objective, academic table and projects are fused into running text, so table and headers are lost."
+data_science_4.pdf,data_science_4.md,4,"Section titles are visible but nearly every line, including body text, is tagged as a heading."
+data_science_5.pdf,data_science_5.md,2,"Section headers are fused into one running paragraph and words are glued together, so section distinction is lost."
+devops_1.pdf,devops_1.md,1,Font-encoding gibberish with random lines tagged as headings; unusable.
+devops_2.pdf,devops_2.md,3,Every line is tagged as a heading and the skills table flattens into glued label-value lines.
+devops_3.pdf,devops_3.md,2,"Section headers are fused into one running paragraph and words are glued together, so section distinction is lost."
+devops_4.pdf,devops_4.md,2,About Me text is interleaved with contact and sidebar fields mid-sentence (column bleed).
+devops_5.pdf,devops_5.md,2,"Section headers are fused into one running paragraph and words are glued together, so section distinction is lost."
+electronics_1.pdf,electronics_1.md,4,"Section header is marked, but bullets and entry lines are all tagged as headings."
+electronics_2.pdf,electronics_2.md,2,"Section headers are fused into one running paragraph and words are glued together, so section distinction is lost."
+electronics_3.pdf,,,
+electronics_4.pdf,electronics_4.md,3,"Every line including body text is tagged as a heading, so header distinction is lost."
+electronics_5.pdf,electronics_5.md,2,"Education, skills table and experience headers are fused into one paragraph."
+game_dev_1.pdf,game_dev_1.md,1,Sidebar text is interleaved into main-column lines (column bleed) and headers are mis-tagged.
+game_dev_2.pdf,game_dev_2.md,1,Sidebar text is interleaved into main-column lines (column bleed) and headers are mis-tagged.
+game_dev_3.pdf,game_dev_3.md,1,Sidebar text is interleaved into main-column lines (column bleed) and headers are mis-tagged.
+game_dev_4.pdf,game_dev_4.md,2,Education and Languages merged into one line with sidebar text interleaved.
+game_dev_5.pdf,game_dev_5.md,1,Sidebar text is interleaved into main-column lines (column bleed) and headers are mis-tagged.
+graphics_design_1.pdf,graphics_design_1.md,1,Letter-spaced text with contact details interleaved into Work Experience (column bleed).
+graphics_design_2.pdf,graphics_design_2.md,4,"Experience and Education headers marked, but entries are fused into long paragraphs."
+graphics_design_3.pdf,graphics_design_3.md,2,"Section headers are fused into one running paragraph and words are glued together, so section distinction is lost."
+graphics_design_4.pdf,graphics_design_4.md,2,"Section headers are fused into one running paragraph and words are glued together, so section distinction is lost."
+graphics_design_5.pdf,graphics_design_5.md,2,"Section headers are fused into one running paragraph and words are glued together, so section distinction is lost."
+graphics_design_6.pdf,graphics_design_6.md,1,Personal table interleaved with the Education sidebar (column bleed) and body text tagged as headings.
+it_general_1.pdf,it_general_1.md,2,"Section headers are fused into one running paragraph and words are glued together, so section distinction is lost."
+it_general_2.pdf,it_general_2.md,1,Two-column qualifications are interleaved mid-line and headers are fused.
+it_general_3.pdf,it_general_3.md,2,"Section headers are fused into one running paragraph and words are glued together, so section distinction is lost."
+it_general_4.pdf,it_general_4.md,2,"Section headers are fused into one running paragraph and words are glued together, so section distinction is lost."
+it_general_5.pdf,it_general_5.md,2,"Section headers are fused into one running paragraph and words are glued together, so section distinction is lost."
+it_general_6.pdf,it_general_6.md,2,"Section headers are fused into one running paragraph and words are glued together, so section distinction is lost."
+it_general_7.pdf,it_general_7.md,2,Skills grid fused into glued text and headers are not distinguished.
+markeing_5.pdf,markeing_5.md,2,"Section headers are fused into one running paragraph and words are glued together, so section distinction is lost."
+marketing_1.pdf,marketing_1.md,1,Contact and profile columns interleaved with spaced-out headers (column bleed).
+marketing_2.pdf,marketing_2.md,3,Every line is tagged as a heading and words are glued together.
+marketing_3.pdf,marketing_3.md,2,"Section headers are fused into one running paragraph and words are glued together, so section distinction is lost."
+marketing_4.pdf,marketing_4.md,2,"Section headers are fused into one running paragraph and words are glued together, so section distinction is lost."
+mechanical_1.pdf,mechanical_1.md,3,Contact lines split around the name; sections marked but body is fused.
+mechanical_2.pdf,mechanical_2.md,5,"Education and Work experience headers marked, but entries run together in paragraphs."
+mechanical_3.pdf,mechanical_3.md,5,"Headers marked, but contact and body text are fused into paragraphs."
+swe_1.pdf,swe_1.md,1,Contact/Summary and Education/Experience headers and entries interleaved (column bleed).
+swe_2.pdf,swe_2.md,1,"Profile, Education and Contact sidebar text interleaved with main column (column bleed)."
+swe_3.pdf,swe_3.md,5,Headers are marked (letter-spaced) but skills and body remain run-on text.
+swe_4.pdf,swe_4.md,5,"Section headers marked, but entry lines and bullets are tagged as headings."
+swe_5.pdf,swe_5.md,4,Header block bleeds into the title line and education entries are fused.
+swe_6.pdf,swe_6.md,3,Work Experience fused into the contact paragraph; dates mixed with bullets.
+swe_7.pdf,swe_7.md,6,Headers and roles correct but bullets carry backtick artifacts.
+swe_8.pdf,swe_8.md,1,Every line tagged as a heading and sidebar items interleaved with Education (column bleed).
+swe_9.pdf,swe_9.md,1,Sidebar Contact and main Experience columns interleaved with every line tagged as a heading.

@@ -1,0 +1,50 @@
+resume_name,extraction_name,extraction_score,key point
+data_science_1.pdf,data_science_1.md,9,"Clean single-column flow; headers, bullets and dates preserved in order."
+data_science_2.pdf,data_science_2.md,8,Sidebar and main columns emitted sequentially with no bleed and headers intact; source PDF has garbled glyph fonts that remain unreadable.
+data_science_3.pdf,data_science_3.md,5,Academic table flattened so wrapped cells interleave (e.g. 'S S L C ... Council 84.52%'); project labels detached from their details.
+data_science_4.pdf,data_science_4.md,7,"Headers intact but the left date/location column is split from role titles, so dates float apart from jobs."
+data_science_5.pdf,data_science_5.md,9,Single column with right-aligned dates kept on the same line as company and role; headers distinct.
+devops_1.pdf,devops_1.md,2,"Font-encoding failure leaves body text and headers unreadable gibberish (e.g. '6.,//6', '(;3(5,(1&('); no usable content for ATS."
+devops_2.pdf,devops_2.md,8,Skills table preserved as readable label-value rows; one job lost its date range and location.
+devops_3.pdf,devops_3.md,9,"Single column, certifications and bullets clean, headers in order."
+devops_4.pdf,devops_4.md,5,"Section headers (Roles, Work Experience, Education) pulled out and stacked apart from their content; name duplicated and title line displaced; 3-column roles grid becomes disjoint fragments."
+devops_5.pdf,devops_5.md,9,"Single column; all sections, dates and bullets in order."
+electronics_1.pdf,electronics_1.md,9,"Role, company, location and dates re-joined correctly; headers preserved."
+electronics_2.pdf,electronics_2.md,9,Single column with sections and bullets intact; only source mojibake remains.
+electronics_4.pdf,electronics_4.md,9,"Headers, skills lines and right-aligned dates all kept in order."
+electronics_5.pdf,electronics_5.md,9,Two-column skills rows stay readable as label: values pairs and dates stay with their lines.
+game_dev_1.pdf,game_dev_1.md,9,Two columns read sequentially with no cross-column bleed; headers kept.
+game_dev_2.pdf,game_dev_2.md,7,"No bleed, but sidebar skill chips become loose fragments and the 'PERSONAL PROJECTS' header is split across lines."
+game_dev_3.pdf,game_dev_3.md,7,"Columns kept separate but sidebar emitted first, a GDPR footer lands at the top, and dates precede job titles."
+game_dev_4.pdf,game_dev_4.md,9,Sidebar sections and skills category pairs read cleanly in order.
+game_dev_5.pdf,game_dev_5.md,5,"Education and experience dates are dumped as a detached block at the end, so entries lose their dates."
+graphics_design_1.pdf,graphics_design_1.md,3,"Body text is letter-spaced ('I a m a s e n i o r ...'), breaking keyword matching; sidebar order also moved."
+graphics_design_2.pdf,graphics_design_2.md,3,"Experience, Education and Skills headers are stacked at the top, detached from their content; dates trail their bullets."
+graphics_design_3.pdf,graphics_design_3.md,9,Skills two-column list flattened sensibly; headers and work history intact.
+graphics_design_4.pdf,graphics_design_4.md,9,Single column with headers and highlights intact.
+graphics_design_5.pdf,graphics_design_5.md,9,Two-column skills list read left then right without bleed; headers preserved.
+graphics_design_6.pdf,graphics_design_6.md,2,"Section headers grouped at top away from content; Personal and Contact tables split into a labels list and a values list, so mapping is lost."
+it_general_1.pdf,it_general_1.md,9,"Single column, headers and dates preserved."
+it_general_2.pdf,it_general_2.md,8,Two-column qualifications read in order without bleed; headers intact.
+it_general_3.pdf,it_general_3.md,9,Skill highlights and sections preserved in order.
+it_general_4.pdf,it_general_4.md,9,"Clean single column, headers and dates intact."
+it_general_5.pdf,it_general_5.md,9,Highlights grid and experience preserved with headers distinct.
+it_general_6.pdf,it_general_6.md,9,Two-column skill highlights split cleanly into sequential lists; headers intact.
+it_general_7.pdf,it_general_7.md,6,"Two-column skills grid merged line by line (e.g. 'Electro-mechanical design JMP'), fusing adjacent columns' items."
+markeing_5.pdf,markeing_5.md,9,Highlights grid and experience read correctly; headers preserved.
+marketing_1.pdf,marketing_1.md,3,Experience dates/companies listed first with bullets detached afterwards; education dates scrambled; monogram merged into name ('OWO L I V I A').
+marketing_2.pdf,marketing_2.md,9,"Single column, headers and dates intact."
+marketing_3.pdf,marketing_3.md,9,Skills list and work history in correct order; headers preserved.
+marketing_4.pdf,marketing_4.md,9,Highlights grid linearised cleanly; headers intact (source bullet mojibake only).
+mechanical_1.pdf,mechanical_1.md,2,"Headers (Work Experience, Skills, Education, Other) stacked at top away from content; job title/company/date lines missing; skills sub-headings lost."
+mechanical_2.pdf,mechanical_2.md,9,Single column; education and experience in order with headers kept.
+mechanical_3.pdf,mechanical_3.md,9,"Headers, dates and bullets in order; only a stray page number."
+swe_1.pdf,swe_1.md,2,"Monogram bleeds into title ('SAW E B D E V E L O P E R'); experience scrambled into company lines, dates, titles and duplicated bullets."
+swe_2.pdf,swe_2.md,2,"Sidebar content first, Education/Experience headers pushed to the end, dates detached; name garbled with title ('EvansF u l l')."
+swe_3.pdf,swe_3.md,8,Content intact and headers retained (letter-spaced); skills paragraph run-on and header duplicated.
+swe_4.pdf,swe_4.md,8,"Education, skills and work history ordered correctly with dates recovered; name and tagline merged on one line."
+swe_5.pdf,swe_5.md,8,Sections and skills correct; header-block contact items merged into the name line.
+swe_6.pdf,swe_6.md,8,Sections and bullets correct; right-aligned dates and locations moved after each job's bullets.
+swe_7.pdf,swe_7.md,9,Clean linear output with dates and bullets attached to the right roles.
+swe_8.pdf,swe_8.md,8,Sidebar read first then main column without bleed; letter-spaced headers still identifiable.
+swe_9.pdf,swe_9.md,3,"Sidebar labels and values separated and experience bullets detached from their job headings, so roles and dates are scrambled."

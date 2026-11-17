@@ -1,0 +1,51 @@
+resume_name,extraction_name,extraction_score,key point
+data_science_1.pdf,data_science_1.md,9.5,"Cleanly preserved single-column layout, section headers, job hierarchy, and bullet lists with minimal HTML underline artifacts."
+data_science_2.pdf,data_science_2.md,7.5,"Correctly separated the left sidebar from the right main column without column bleed, though minor spacing and casing glitches occurred in headers."
+data_science_3.pdf,data_science_3.md,5.5,"Preserved the academic table reasonably well, but misformatted left-column project labels as standalone H1 headers."
+data_science_4.pdf,data_science_4.md,7.0,"Preserved section hierarchy and project bullets well, but improperly wrapped multi-line work experience entries into broken Markdown tables."
+data_science_5.pdf,data_science_5.md,6.5,"Maintained work experience and publications cleanly, but scrambled the side-by-side Research and Skills sections by merging labels and values out of order."
+devops_1.pdf,devops_1.md,6.5,"Maintained overall section headers, but suffered from severe word concatenation without spaces in company descriptions and achievements."
+devops_2.pdf,devops_2.md,8.5,"Accurately extracted single-column layout, core skills table, and section headers, with only a minor table split at the Experience header."
+devops_3.pdf,devops_3.md,5.5,"Extracted most headers and tables across 7 pages, but erroneously wrapped mid-document project bullets inside a Python code block and malformed table."
+devops_4.pdf,devops_4.md,8.0,"Handled complex multi-column tables and long-form project hierarchy well, with minor unrendered icon characters in the header."
+devops_5.pdf,devops_5.md,2.0,"Fatal Error (Flattened Headers & Scrambled Tables): Lost all Markdown section header distinctions, collapsed the 3-column skill matrix into raw text, and concatenated words."
+electronics_1.pdf,electronics_1.md,6.5,"Preserved experience and project hierarchy, but garbled the Technical Skills section by rendering simulator and synthesis tools as a broken LaTeX math string."
+electronics_2.pdf,electronics_2.md,2.5,"Fatal Error (Flattened Headers): Completely lost all section header formatting (Summary, Experience, Education, Skills) and suffered from frequent word concatenation."
+electronics_3.pdf,electronics_3.md,3.0,"Fatal Error (Flattened Headers): Extracted clean text from a rasterized/vectorized PDF via OCR, but failed to apply any Markdown headers or bullet formatting."
+electronics_4.pdf,electronics_4.md,8.0,"Preserved single-column layout and headers well, with minor table alignment quirks in the Leadership section and a truncated word ('r ') in Experience."
+electronics_5.pdf,electronics_5.md,8.5,"Cleanly parsed section headers, experience bullets, and dates, with only minor inline merging on the Education and Technical Skills headers."
+game_dev_1.pdf,game_dev_1.md,9.0,Successfully unstacked the two-column layout (Experience vs. Skills/Community/Education) into a clean sequential hierarchy without column bleed.
+game_dev_2.pdf,game_dev_2.md,2.5,"Fatal Error (Column Bleed): Merged right-sidebar Skills, Personal Projects, and Education directly into the middle of the left-column Playshifu and Team Ocean Games experience entries."
+game_dev_3.pdf,game_dev_3.md,1.5,Fatal Error (Column Bleed & Flattened Headers): Completely scrambled the two-column layout into a broken table where dates and bullets are detached from their respective roles.
+game_dev_4.pdf,game_dev_4.md,8.5,Preserved project hierarchy and grouped the two-column Education/Skills/Languages/References grid into a readable table.
+game_dev_5.pdf,game_dev_5.md,9.0,"Cleanly separated the left sidebar (Skills, Interests, Languages) from the main column (Profile, Education, Projects, Experience) without column bleed."
+graphics_design_1.pdf,graphics_design_1.md,2.0,"Fatal Error (Column Bleed): Merged left-sidebar Contact, Expertise, and Software Knowledge directly into the middle of the right-column Work Experience entries."
+graphics_design_2.pdf,graphics_design_2.md,8.0,"Cleanly parsed the two-column layout and formatted the Skills grid as a table, though experience bullet points were merged into bold paragraphs."
+graphics_design_3.pdf,graphics_design_3.md,3.0,Fatal Error (Flattened Headers): Lost all Markdown section header distinctions and suffered from widespread missing spaces between words.
+graphics_design_4.pdf,graphics_design_4.md,2.5,"Fatal Error (Flattened Headers): Lost all section header distinctions (Summary, Highlights, Experience, Education, Skills) and concatenated words throughout."
+graphics_design_5.pdf,graphics_design_5.md,2.5,Fatal Error (Flattened Headers & Scrambled Tables): Lost all section headers and generated a malformed 50-row empty table in the Skills section.
+graphics_design_6.pdf,graphics_design_6.md,7.0,"Preserved most section headers, but bled the Links section header into the middle of the My Expertise Skills list as a two-column table."
+it_general_1.pdf,it_general_1.md,2.5,"Fatal Error (Flattened Headers): Completely flattened all section headers (Experience, Education and Training, Interests, Skills) into plain text with word concatenation."
+it_general_2.pdf,it_general_2.md,2.0,"Fatal Error (Column Bleed & Flattened Headers): Lost all section headers and bled the two-column Qualifications list into interleaved, out-of-order sentences."
+it_general_3.pdf,it_general_3.md,2.5,"Fatal Error (Flattened Headers): Lost all Markdown section headers (Executive Profile, Skill Highlights, Professional Experience, Education) and merged words."
+it_general_4.pdf,it_general_4.md,2.5,"Fatal Error (Flattened Headers): Stripped all section header formatting (Summary, Skills, Experience, Education) and concatenated words."
+it_general_5.pdf,it_general_5.md,3.0,"Fatal Error (Flattened Headers): Preserved the two-column Highlights table, but flattened all section headers (Summary, Accomplishments, Experience, Education, Skills)."
+it_general_6.pdf,it_general_6.md,2.0,Fatal Error (Column Bleed & Flattened Headers): Flattened main section headers and interleaved the two-column Skill Highlights list.
+it_general_7.pdf,it_general_7.md,2.5,Fatal Error (Flattened Headers & Scrambled Tables): Flattened all section headers and merged the two-column Skills list into run-on lines.
+markeing_5.pdf,markeing_5.md,3.0,"Fatal Error (Flattened Headers): Preserved the two-column Highlights table, but flattened all section headers (Summary, Accomplishments, Experience, Education, Skills)."
+marketing_1.pdf,marketing_1.md,4.0,Fatal Error (Column Bleed): Split the right-column Work Experience section in half by inserting left-sidebar Skills and Languages between Borcelle Studio and Fauget Studio.
+marketing_2.pdf,marketing_2.md,3.0,"Fatal Error (Flattened Headers): Lost all section header formatting (Professional Summary, Interests, Skills, Experience, Education) with minor word concatenation."
+marketing_3.pdf,marketing_3.md,3.0,"Fatal Error (Flattened Headers): Stripped all section header distinctions (Professional Summary, Skills, Education, Work History, Languages) and concatenated words."
+marketing_4.pdf,marketing_4.md,3.0,"Fatal Error (Flattened Headers): Preserved the Highlights table partially, but flattened all section headers (Summary, Experience, Education, Skills)."
+mechanical_1.pdf,mechanical_1.md,2.0,"Fatal Error (Column Bleed): Bled the left-sidebar Skills, Education, and Other headers into a malformed table in the middle of the first Work Experience bullet."
+mechanical_2.pdf,mechanical_2.md,9.5,"Excellent extraction of single-column layout, accurately preserving all section headers, job titles, dates, and content."
+mechanical_3.pdf,mechanical_3.md,7.5,"Preserved section headers and text across 3 pages, but converted bullet points with 'x' markers into two-column Markdown tables and repeated page headers."
+swe_1.pdf,swe_1.md,3.0,"Fatal Error (Column Bleed): Merged left-column and right-column headers ('CONTACT SUMMARY', 'EDUCATION EXPERIENCE') and interleaved Skills between Education and Experience."
+swe_2.pdf,swe_2.md,9.0,Cleanly separated the two-column layout into logical sequential sections with proper Markdown headers and no column bleed.
+swe_3.pdf,swe_3.md,6.5,"Preserved layout and section separation, but mislabeled the Work Experience section header as a duplicate 'TECHNICAL SKILLS' header and retained letter-spaced titles."
+swe_4.pdf,swe_4.md,9.0,"Accurately parsed the two-page single-column layout, preserving section headers, bold lead-ins, links, and bullet points with minor lowercase 'i' font artifacts."
+swe_5.pdf,swe_5.md,9.0,"Cleanly extracted section headers, nested experience bullets, and project details, with only a minor swap of institution names and locations in Education."
+swe_6.pdf,swe_6.md,7.0,"Preserved main section headers and Skills table, but wrapped several Work Experience bullet lists and right-aligned dates into awkward multi-column tables."
+swe_7.pdf,swe_7.md,3.5,"Fatal Error (Column Bleed):Detached the first lines of Experience bullet points from their roles and placed them above the Experience table, while repeating page footers as H1 headers."
+swe_8.pdf,swe_8.md,2.0,"Fatal Error (Column Bleed): Interleaved right-sidebar Contact, Profiles, Google Play, Skills, and Languages directly into the middle of left-column Education, Experience, and Projects."
+swe_9.pdf,swe_9.md,7.5,"Separated the left sidebar from the main Experience column on both pages without mid-sentence bleed, though sidebar text is repeated on page 2 and uses H6 headers."

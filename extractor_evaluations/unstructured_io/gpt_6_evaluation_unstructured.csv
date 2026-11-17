@@ -1,0 +1,51 @@
+﻿resume_name,extraction_name,extraction_score,key point
+data_science_1.pdf,data_science_1.md,9.8,Section order and content are preserved across pages; headings and experience entries remain distinct.
+data_science_2.pdf,data_science_2.md,6.5,"Most content is present, but the two-column layout is reordered and the table/section relationships are only partly clear."
+data_science_3.pdf,data_science_3.md,8.2,Major sections and skills tables are retained; some ordering and layout relationships are less faithful.
+data_science_4.pdf,data_science_4.md,8.8,Strong content coverage with recognizable section structure; a few table and heading relationships are imperfect.
+data_science_5.pdf,data_science_5.md,10.0,Text and section sequence closely match the source; experience entries remain cleanly separated.
+devops_1.pdf,devops_1.md,9.4,Skills and work-history sections remain distinct and readable; minor ordering differences do not disrupt the content.
+devops_2.pdf,devops_2.md,9.2,"Clear headings, experience entries, and table content; extraction preserves the overall structure."
+devops_3.pdf,devops_3.md,9.2,Long multi-page content is retained with clear sections; some headings and page transitions are imperfect.
+devops_4.pdf,,,
+devops_5.pdf,devops_5.md,9.8,Section hierarchy and content are preserved with only minor formatting differences.
+electronics_1.pdf,electronics_1.md,8.8,Experience and technical-skills sections are readable; some table and line grouping details are imperfect.
+electronics_2.pdf,electronics_2.md,9.8,"The extraction closely preserves the source text and separates summary, experience, and date-based entries."
+electronics_3.pdf,electronics_3.md,9.2,Scanned/source layout is represented with clear section headings and readable project and experience entries.
+electronics_4.pdf,electronics_4.md,9.4,"Objective, education, skills, experience, and projects remain clearly separated."
+electronics_5.pdf,electronics_5.md,9.0,Major sections and skill groupings are retained; a few table-like elements are represented imperfectly.
+game_dev_1.pdf,game_dev_1.md,7.8,"Experience entries remain readable, but some source content and layout grouping are less faithfully represented."
+game_dev_2.pdf,game_dev_2.md,8.3,Experience and task bullets are preserved; the sidebar skills block is separated but the overall reading order differs.
+game_dev_3.pdf,game_dev_3.md,9.0,"Work history, education, and language/tool sections remain distinct and readable."
+game_dev_4.pdf,game_dev_4.md,9.3,Multi-page projects and experience sections retain clear headings and readable descriptions.
+game_dev_5.pdf,game_dev_5.md,9.2,"Skills, profile, and experience content are preserved with a mostly clean section structure."
+graphics_design_1.pdf,graphics_design_1.md,8.4,Sidebar content is grouped separately from the main profile and work history; minor ordering differences remain.
+graphics_design_2.pdf,graphics_design_2.md,9.8,Profile and work-history entries are cleanly separated and closely follow the source.
+graphics_design_3.pdf,graphics_design_3.md,9.8,Professional summary and the remaining content are preserved with clear section boundaries.
+graphics_design_4.pdf,graphics_design_4.md,10.0,The extraction preserves the source content and section structure with negligible layout loss.
+graphics_design_5.pdf,graphics_design_5.md,9.8,Multi-page work history and certifications remain readable with clear entry boundaries.
+graphics_design_6.pdf,graphics_design_6.md,8.8,"Personal details, education, expertise, links, and skills are identifiable; minor section-order differences remain."
+it_general_1.pdf,it_general_1.md,9.8,Experience and education sections remain distinct and the source content is almost fully preserved.
+it_general_2.pdf,it_general_2.md,9.8,"Qualifications, relevant experience, and skills retain clear headings and readable structure."
+it_general_3.pdf,it_general_3.md,10.0,Executive profile and supporting sections are preserved with clear hierarchy and ordering.
+it_general_4.pdf,it_general_4.md,9.8,Summary and experience content remain clearly separated with minimal formatting loss.
+it_general_5.pdf,it_general_5.md,9.8,The title and body content are preserved cleanly; no major structural issue is apparent.
+it_general_6.pdf,it_general_6.md,9.7,Long-form experience and technical subsections remain readable and consistently grouped.
+it_general_7.pdf,it_general_7.md,9.7,"Profile and accomplishments remain distinct, with strong overall content and layout fidelity."
+markeing_5.pdf,markeing_5.md,10.0,"Sales summary, highlights, and accomplishments remain distinct and closely match the source."
+marketing_1.pdf,marketing_1.md,7.8,"Education and work experience are identifiable, but sidebar items and work-history content are interleaved in reading order."
+marketing_2.pdf,marketing_2.md,9.8,"Summary, interests, skills, and experience remain distinct and readable."
+marketing_3.pdf,marketing_3.md,10.0,"Skills, education, and work-history entries are preserved with clear boundaries."
+marketing_4.pdf,marketing_4.md,9.8,"Summary, highlights, and experience entries retain a clear hierarchy and readable order."
+mechanical_1.pdf,mechanical_1.md,9.4,"Contact details, summary, work experience, skills, and education remain clearly separated."
+mechanical_2.pdf,mechanical_2.md,9.8,"Education, work experience, publications, and skills retain distinct headings and readable entries."
+mechanical_3.pdf,mechanical_3.md,9.7,The multi-page education and experience sections are preserved with clear headings and bullet grouping.
+swe_1.pdf,swe_1.md,7.8,"Main sections are present, but the two-column content is interleaved and an extraneous 'ANALYSIS CONTENT' label appears."
+swe_2.pdf,swe_2.md,8.3,"Profile, contact, skills, education, and experience remain recognizable; column reading order differs from the source."
+swe_3.pdf,swe_3.md,8.2,"Profile and experience are readable, but the technical-skills heading is duplicated and section boundaries are less clean."
+swe_4.pdf,swe_4.md,9.5,"Education, skills, work experience, and volunteer experience remain distinct; table content is readable."
+swe_5.pdf,swe_5.md,9.7,"Education, skills, experience, and projects retain clear headings and readable entry structure."
+swe_6.pdf,swe_6.md,9.2,Work experience and projects remain clearly sectioned; the skills table is preserved in readable form.
+swe_7.pdf,swe_7.md,9.8,"Profile, experience, education, and technical skills retain a clear and consistent hierarchy."
+swe_8.pdf,swe_8.md,7.5,"Main profile and project sections are readable, but several sidebar details and skills/contact items are missing."
+swe_9.pdf,swe_9.md,5.8,"Main experience is readable, but sidebar skills are flattened into dense text and contact/education blocks are duplicated."

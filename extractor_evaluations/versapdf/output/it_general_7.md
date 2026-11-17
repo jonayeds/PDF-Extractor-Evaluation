@@ -1,0 +1,73 @@
+ENGINEERING ASSOCIATE Profile Team-oriented Engineering Associate with over 8 years experience designing, developing, maintaining, and testing electro-mechanical systems.
+
+Skills Electro-mechanical designJMP Microsoft Visual BasicMicrosoft Excel Vision systemprogrammingMicrosoft power point Electronic computer systemsMicrosoft Visio Engineering softwareSix Sigma 5X methodology Strong presentation skillsAdaptable Process improvementElectrical Troubleshooting Tools TeamplayerAbility to read schematics Mechanical design/implementationAbility to write and read wiring diagram Accomplishments Bronze medal in Skills USA for robotics and automation Statistical Analysis Performed data collection and statistical analysis that resulted in sound recommendations that were adopted by department.
+
+Product Improvement Worked with R&D and LOB to modify and improve overall product performance.
+
+Eliminated machine defects through recommendation of machine adjustments.
+
+Testing, Evaluation and Analysis: Tested equipment to ensure compliance.
+
+Analyzed data and provided recommendations which resulted in adoption of new cost-saving equipment.
+
+AutoCad Software Utilization Helped produced drawings and maintained, archived and retrieved CAD files and drawing documents for the completion of four commercial projects.
+
+Presentations Created presentation to IDEXX Technical Review Board for product changes and improvements Produced training power points to train field support Project Management Lead and leadership rolls in multiple 5X projects on multiple instrument Platforms Lead on multiple product changes and obsolesces of products Managed internal and Supplier efforts in product defects and resolutions Keep tight project road maps including schedualing and status updates on projects Customer Interface Meet with customers to help relieve customer dissatisfaction, gain more knowledge of products used in the field, help provide systemreliability and performance.
+
+PerformSite servays in reguards with electrical compentency.
+
+New Product Development Lead Product support engineer full X-ray product line Designed and developed and sourced EliteVison Protective cover.
+
+Professional Experience Engineering Associate05/2008toCurrentCompany NameCity,State Started as an instrument Tech on the Manufacturing floor responsible for building and servicing Catalyst DX.
+
+Worked as a stand in technical lead for a few months.
+
+Moved to Catalyst Pilot line in 2011.
+
+Was responsible for lab maintenance, Instrument software testing, validation of new components, and extended instrument field fail triage.
+
+In the fall of 2013 I started working under an Engineer for the Digital Radiography department.
+
+I amresponsible for product reliability, product improvement and NPD qualification including writing test protocols, test execution, reporting findings.
+
+Other responsibilities include ESD implementation and testing, lab maintenance and management.
+
+I work with suppliers and customers on a regular basis.
+
+I work in a large cross functional group daily.
+
+I amconsidered a hardware subject matter expert for all CR and DR instruments at IDEXX.
+
+I amfamiliar with the software and systemintegration.
+
+I have had the opportunity to design multiple components and test fixtures fromelectrical test boxes to metal inspection jugs and composite protective covers.
+
+In addition, I amresponsible for all obsolesces and validation testing.
+
+In addition, I train all new personal on equipment and filed servicing systems, including software, mechanical, and electrical AC/ DC troubleshooting.
+
+In this position I oversee work fromtechnicians and interns working on and assisting with various projects.
+
+Electrical Technician and Mechanist02/2007to03/2008Company NameCity,State Resolved part and assembly discrepancies.Collaborated with engineers and project managers regarding design parameters for client projects.Designed brackets and customframe work for automated machines.
+
+Prepared accurate specifications for purchase of materials and equipment for purchasing department.Debugged and troubleshot complex analog, digital, and RF circuits.
+
+Worked with and troubleshooted Programmable Logic Controllers (PLC) and assembly lines to maintain productivity.on the automated machinery at customer sites.
+
+assembled complex electrical circuits both AC and DC.
+
+04/2006to08/2009Company NameCity,State
+
+---
+
+<!-- Page 2 -->
+
+Worked in multiple departments to provide quality care for patients.
+
+Maintained medical records, worked with families to.
+
+provide quality care.
+
+Education and Training Associate of Applied ScienceSMCC SouthCity,State,US I studied at SMCC in 2007-2008 towards a degree in applied science in the field of electronics.
+
+Drafting and design YCCCWells, ME, US Studied CAD and Drafting in the Engineering Design ProgramCurrently working with YCCC and USM in Industrial Management- consideration in electro-mechanical systems:mechanical engineering2015mechanical engineering Personal Information IDEXX LaboratoriesWestbrook, ME, US Skills CAD, hardware, client, DC, Drafting, electronics, Engineer, Engineering Design, frame, functional, inspection, Logic, machinery, materials, mechanical, Mechanical design, Microsoft Excel, Microsoft power point, Microsoft Visio, PLC, presentation skills, Process improvement, product improvement, programming, Project management, protocols, purchasing, quality, Radiography, read, reporting, Scheduling, schematics, Six Sigma 5, software testing, systemintegration, Teamplayer, triage, Troubleshooting, validation, Vision, Microsoft Visual Basic, wiring diagram Additional Information IDEXX LaboratoriesWestbrook, ME, US 4 week long training for Six Sigma 5x technical problemsolving methodology GD&T2015 Tech-esePortland , ME, US Geometric Dimension and tolerance week long training High School2007 Sanford High SchoolSanford, Me, US Graduated with Honors Electronics2007 Sanford Regional Vocational CenterSanford, ME, US Graduated the Vocational electronics programand was a member of the National Technical Honors Society

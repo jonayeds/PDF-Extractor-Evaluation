@@ -1,0 +1,51 @@
+resume_name,extraction_name,extraction_score,key point
+data_science_1.pdf,data_science_1.md,7,"Headers and bullets are intact, but job headings are inconsistently marked and a URL is corrupted ('wejrdford')."
+data_science_2.pdf,data_science_2.md,3,"Text is readable, but right-column experience bullets are interleaved under the Education entries (column bleed)."
+data_science_3.pdf,data_science_3.md,8,Academic and project tables kept as real HTML tables with headers marked; minor name typo ('NEELES').
+data_science_4.pdf,data_science_4.md,8,"Experience table kept with dates, role and bullets together; headers on own lines."
+data_science_5.pdf,data_science_5.md,8,"Headers, roles and right-aligned dates all on clean separate lines."
+devops_1.pdf,devops_1.md,8,Body and headers are readable; skills are a plain vertical list in order.
+devops_2.pdf,devops_2.md,9,Skills matrix preserved as a proper table with label/value cells and marked headers.
+devops_3.pdf,devops_3.md,8,Single-column content intact with headers on own lines; header markup inconsistent.
+devops_4.pdf,,,
+devops_5.pdf,devops_5.md,8,Clean single column with Executive Profile and sections on own lines.
+electronics_1.pdf,electronics_1.md,9,"Role, company, dates and location separated cleanly with headers marked."
+electronics_2.pdf,electronics_2.md,8,Sections and bullets intact with plain header lines; stray '1/4' artifact.
+electronics_3.pdf,electronics_3.md,9,"Headers, roles, dates and bullets in correct order."
+electronics_4.pdf,electronics_4.md,9,Marked headers with skills lines and dates preserved.
+electronics_5.pdf,electronics_5.md,9,Skills matrix preserved as a table; headers marked.
+game_dev_1.pdf,game_dev_1.md,8,Two columns read in order with headers on own lines but no markup.
+game_dev_2.pdf,game_dev_2.md,8,Sidebar contact labelled and kept apart from experience; headers on own lines.
+game_dev_3.pdf,game_dev_3.md,7,"Sidebar content emitted first, but sections are separate and no bleed occurs."
+game_dev_4.pdf,game_dev_4.md,7,Headers fine but a skills heading and its content are duplicated and sidebar sections moved.
+game_dev_5.pdf,game_dev_5.md,3,Skills items are scattered through the Profile and Education text (column bleed).
+graphics_design_1.pdf,graphics_design_1.md,7,"Sidebar first with marked headers, readable body; letter-spaced header text remains."
+graphics_design_2.pdf,graphics_design_2.md,8,"Experience, Education and Skills headers sit with their own content."
+graphics_design_3.pdf,graphics_design_3.md,7,"Content intact but the Skills header was dropped, leaving bare bullets."
+graphics_design_4.pdf,graphics_design_4.md,8,Highlights and experience are clean with headers on their own lines.
+graphics_design_5.pdf,graphics_design_5.md,7,Bullets and work history intact but the Skills header was dropped.
+graphics_design_6.pdf,graphics_design_6.md,7,Sections and Personal key-value pairs are readable though ordered sidebar-first.
+it_general_1.pdf,it_general_1.md,8,Headers and bullets intact; date line sits above the role.
+it_general_2.pdf,it_general_2.md,8,Two-column qualifications read in order with headers marked.
+it_general_3.pdf,it_general_3.md,9,"Executive Profile, Skill Highlights and experience cleanly separated."
+it_general_4.pdf,it_general_4.md,7,Content intact but the Skills header is missing before the list.
+it_general_5.pdf,it_general_5.md,7,Summary and Highlights headers dropped; two bullets merged on one line.
+it_general_6.pdf,it_general_6.md,9,Headers and bullet lists read in order.
+it_general_7.pdf,it_general_7.md,6,Two-column skills rows are fused into single lines (e.g. 'Electro-mechanical design JMP').
+markeing_5.pdf,markeing_5.md,9,"Highlights, Accomplishments and Experience headers retained in order."
+marketing_1.pdf,marketing_1.md,5,"Contact separated from its content, Education and Work Experience headers stacked, and experience split into table fragments."
+marketing_2.pdf,marketing_2.md,8,Headers on own lines with skills and experience in order.
+marketing_3.pdf,marketing_3.md,8,Skills list and sections correct; Education folded onto a labelled line.
+marketing_4.pdf,marketing_4.md,8,Headers and bullets in order; only bullet-glyph artifacts.
+mechanical_1.pdf,mechanical_1.md,9,Real headers for each section and job titles preserved.
+mechanical_2.pdf,mechanical_2.md,9,"Education, Work experience, Publications and Skills clearly marked."
+mechanical_3.pdf,mechanical_3.md,8,Headers marked and entries in order; duplicated heading lines.
+swe_1.pdf,swe_1.md,2,Education and Experience entries are interleaved and headers stacked together (column bleed).
+swe_2.pdf,swe_2.md,3,"Sidebar headings and content mixed with the main column, with Skills header over profile bullets."
+swe_3.pdf,swe_3.md,8,Headers and skills retained; skills still a run-on paragraph.
+swe_4.pdf,swe_4.md,9,"Education, skills and work history cleanly ordered with dates."
+swe_5.pdf,swe_5.md,7,Sections correct but education dates and locations are detached from their entries.
+swe_6.pdf,swe_6.md,7,Headers fine but locations and dates trail the bullets of each job.
+swe_7.pdf,swe_7.md,9,Clean headers with dates and bullets attached to the right roles.
+swe_8.pdf,swe_8.md,7,Headers on own lines but experience and skills collapse into inline '·' runs.
+swe_9.pdf,swe_9.md,4,"Sidebar skills and expertise collapse into run-on paragraphs and contact is a table, losing skill structure."

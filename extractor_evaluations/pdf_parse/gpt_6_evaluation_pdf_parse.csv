@@ -1,0 +1,51 @@
+﻿resume_name,extraction_name,extraction_score,key point
+data_science_1.pdf,data_science_1.md,9,Experience sections and bullet points are retained in a coherent sequence with clear labels.
+data_science_2.pdf,data_science_2.md,8,"Sidebar and experience content are separated into recognizable sections, with minor ordering and table simplification."
+data_science_3.pdf,data_science_3.md,8,Education table and subsequent content remain identifiable; some layout structure is simplified.
+data_science_4.pdf,data_science_4.md,8,"Work history, education, and skills are preserved with recognizable section boundaries and some table formatting noise."
+data_science_5.pdf,data_science_5.md,9,Dense chronological work history is extracted in a readable sequence with distinct role entries.
+devops_1.pdf,devops_1.md,8,"Profile, skills, and work experience remain readable; minor content ordering and formatting artifacts remain."
+devops_2.pdf,devops_2.md,8,Major sections and technical details are retained; table-based skill/certification content is mostly structured.
+devops_3.pdf,devops_3.md,8,"Experience and certification information is captured extensively, with tables preserving much of the grouped content."
+devops_4.pdf,devops_4.md,7,"Main profile, skills, roles, and work history are present, but repeated content and table-heavy layout reduce clarity."
+devops_5.pdf,devops_5.md,9,Long-form experience and technical details retain a coherent reading order and recognizable section labels.
+electronics_1.pdf,electronics_1.md,9,Chronological engineering experience and role-specific bullets are clearly separated and readable.
+electronics_2.pdf,electronics_2.md,8,"Technical experience is captured in a readable sequence, though dense paragraphs reduce scanability."
+electronics_3.pdf,,,
+electronics_4.pdf,electronics_4.md,9,"Experience entries, dates, and supporting sections remain clearly organized."
+electronics_5.pdf,electronics_5.md,9,Education and extensive experience retain distinct headings and readable bullet structure.
+game_dev_1.pdf,game_dev_1.md,8,"Experience and skills are extracted in recognizable groups, with some two-column ordering simplified."
+game_dev_2.pdf,game_dev_2.md,8,"Profile, skills, projects, and experience are grouped clearly; sidebar information is largely separated."
+game_dev_3.pdf,game_dev_3.md,9,"Languages, tools, soft skills, and chronological game-development experience are distinctly preserved."
+game_dev_4.pdf,game_dev_4.md,9,"Profile, education, languages, technical skills, and multi-page project details retain clear section labels."
+game_dev_5.pdf,game_dev_5.md,8,"Skills and project content remain recognizable, with some compact sidebar/project details reordered."
+graphics_design_1.pdf,graphics_design_1.md,8,"Personal profile, education, experience, and contact/skills content remain separately labeled despite spaced lettering."
+graphics_design_2.pdf,graphics_design_2.md,9,"Experience, education, and skills are clearly separated and readable."
+graphics_design_3.pdf,graphics_design_3.md,8,"Major sections and list content are preserved, though dense experience text is less structured."
+graphics_design_4.pdf,graphics_design_4.md,9,Work history and supporting sections retain a clear hierarchy and readable bullet content.
+graphics_design_5.pdf,graphics_design_5.md,8,"Skills and work history remain readable, although repeated content and long blocks reduce precision."
+graphics_design_6.pdf,graphics_design_6.md,8,"About, education, skills, and sidebar details are captured in separate recognizable groups."
+it_general_1.pdf,it_general_1.md,8,"Experience details are captured extensively, but contact/reference information is mixed into the opening role text."
+it_general_2.pdf,it_general_2.md,8,"Profile, qualifications, and experience are labeled, though some skill and achievement text is concatenated."
+it_general_3.pdf,it_general_3.md,9,"Professional summary, skills, and experience are preserved in a coherent sequence."
+it_general_4.pdf,it_general_4.md,9,"Summary, skills, and work history retain clear section labels and readable content."
+it_general_5.pdf,it_general_5.md,9,"Summary, highlights, accomplishments, and experience are distinctly organized."
+it_general_6.pdf,it_general_6.md,9,"Executive profile, skills, and long-form career history remain clearly separated."
+it_general_7.pdf,it_general_7.md,8,"Profile, skills, accomplishments, and engineering experience remain identifiable with minor line-joining."
+markeing_5.pdf,markeing_5.md,9,"Sales summary, highlights, accomplishments, and experience retain clear section boundaries."
+marketing_1.pdf,marketing_1.md,9,"Two-column contact, education, skills, language, summary, and experience sections remain separately labeled."
+marketing_2.pdf,marketing_2.md,8,"Summary, interests, skills, and experience are preserved, with minor character-encoding and paragraph-joining issues."
+marketing_3.pdf,marketing_3.md,9,"Professional summary, skills, education, and work history are extracted in a coherent order."
+marketing_4.pdf,marketing_4.md,8,"Summary, highlights, and experience are readable, though some skill labels and bullet text run together."
+mechanical_1.pdf,mechanical_1.md,8,Section headings and sidebar skills/education are retained; some sidebar items appear between experience bullets and dates.
+mechanical_2.pdf,mechanical_2.md,9,"Education, work experience, publications, and skills are clearly separated with readable entries."
+mechanical_3.pdf,mechanical_3.md,9,"Summary, education, and experience are preserved with clear headings and chronological details."
+swe_1.pdf,swe_1.md,7,"Section headers remain distinct, but experience roles and their dates/descriptions are interleaved and one heading is misread."
+swe_2.pdf,swe_2.md,8,"Profile, contact, skills, education, and experience remain identifiable, with some two-column blocks reordered."
+swe_3.pdf,swe_3.md,8,"Profile, technical skills, experience, education, and certifications are labeled; the skills heading is duplicated."
+swe_4.pdf,swe_4.md,9,"Education, skills, work experience, and project details retain clear section boundaries and readable bullets."
+swe_5.pdf,swe_5.md,9,"Education, skills, and experience are captured in a coherent order with readable role and project details."
+swe_6.pdf,swe_6.md,9,"Work experience, skills, and projects retain distinct headings and readable bullet lists."
+swe_7.pdf,swe_7.md,9,"Professional profile, experience, education, and technical details are extracted in a clear sequence."
+swe_8.pdf,swe_8.md,8,"Sidebar skills and profile content are grouped separately from education, projects, and experience; some project details are reordered."
+swe_9.pdf,swe_9.md,8,"Experience, education, skills, and expertise are identifiable, though some role/date associations and sidebar ordering are imperfect."

@@ -1,0 +1,51 @@
+resume_name,extraction_name,extraction_score,key point
+data_science_1.pdf,data_science_1.md,7,Real header markup and job headings preserved; bullets collapse into one run-on paragraph per job.
+data_science_2.pdf,data_science_2.md,7,Sidebar/main columns kept apart with proper headers; skills grid collapses into one line and source glyphs stay garbled.
+data_science_3.pdf,data_science_3.md,3,"Academic table flattened into a paragraph merged with the Objective text and inline bold, so table and header structure are lost."
+data_science_4.pdf,data_science_4.md,7,Headers and job headings preserved with dates before titles; bullets merge into a paragraph.
+data_science_5.pdf,data_science_5.md,4,Only the name is a header; section titles are bold text fused into the first entry.
+devops_1.pdf,devops_1.md,2,"Font-encoding failure leaves headers and body as unreadable gibberish, now falsely tagged as headings."
+devops_2.pdf,devops_2.md,3,Core skills table collapses into one paragraph and summary lines are mis-tagged as headings.
+devops_3.pdf,devops_3.md,4,Headers appear as junk '# ⬇' markers and sections are bold-only inside paragraphs.
+devops_4.pdf,devops_4.md,4,"Section headers stacked together away from their content, name duplicated, columns fragmented."
+devops_5.pdf,devops_5.md,3,"Section headers (Summary/Skills/Experience/Education) are fused into running paragraphs with only the title marked, so header distinction is lost."
+electronics_1.pdf,electronics_1.md,6,"Section headers marked, but bullets carry '(^)' artifacts and skill lines are mis-tagged as headings."
+electronics_2.pdf,electronics_2.md,3,"Section headers (Summary/Skills/Experience/Education) are fused into running paragraphs with only the title marked, so header distinction is lost."
+electronics_3.pdf,,,
+electronics_4.pdf,electronics_4.md,4,Headers are bold text fused with the first line of each section (e.g. 'Education California State University...').
+electronics_5.pdf,electronics_5.md,5,"Skills keep bold label/value pairs, but Education and Technical Skills headers are fused into bold content."
+game_dev_1.pdf,game_dev_1.md,8,Two columns read in order with headers and sub-headings marked.
+game_dev_2.pdf,game_dev_2.md,5,Sidebar contact details are appended to the About paragraph and skill chips are loose lines.
+game_dev_3.pdf,game_dev_3.md,5,"Sidebar text emitted first with GDPR footer on top, summary lines become headings, and sidebar headers fuse into bold."
+game_dev_4.pdf,game_dev_4.md,8,Clean headers for every section; no column bleed.
+game_dev_5.pdf,game_dev_5.md,6,"Headers and skill lists are correct, but dates are still separated from education and experience entries."
+graphics_design_1.pdf,graphics_design_1.md,2,Letter-spaced body text is split into false headings and is unreadable for keyword matching.
+graphics_design_2.pdf,graphics_design_2.md,3,"Experience, Education and Skills headers are stacked at the top, detached from their content."
+graphics_design_3.pdf,graphics_design_3.md,3,"Section headers (Summary/Skills/Experience/Education) are fused into running paragraphs with only the title marked, so header distinction is lost."
+graphics_design_4.pdf,graphics_design_4.md,3,"Section headers (Summary/Skills/Experience/Education) are fused into running paragraphs with only the title marked, so header distinction is lost."
+graphics_design_5.pdf,graphics_design_5.md,3,"Section headers (Summary/Skills/Experience/Education) are fused into running paragraphs with only the title marked, so header distinction is lost."
+graphics_design_6.pdf,graphics_design_6.md,2,"Headers stacked away from content, paragraphs tagged as headings, and the Personal table collapsed."
+it_general_1.pdf,it_general_1.md,3,"Section headers (Summary/Skills/Experience/Education) are fused into running paragraphs with only the title marked, so header distinction is lost."
+it_general_2.pdf,it_general_2.md,3,"Section headers (Summary/Skills/Experience/Education) are fused into running paragraphs with only the title marked, so header distinction is lost."
+it_general_3.pdf,it_general_3.md,3,"Section headers (Summary/Skills/Experience/Education) are fused into running paragraphs with only the title marked, so header distinction is lost."
+it_general_4.pdf,it_general_4.md,3,"Section headers (Summary/Skills/Experience/Education) are fused into running paragraphs with only the title marked, so header distinction is lost."
+it_general_5.pdf,it_general_5.md,3,"Section headers (Summary/Skills/Experience/Education) are fused into running paragraphs with only the title marked, so header distinction is lost."
+it_general_6.pdf,it_general_6.md,3,"Section headers (Summary/Skills/Experience/Education) are fused into running paragraphs with only the title marked, so header distinction is lost."
+it_general_7.pdf,it_general_7.md,3,"Section headers (Summary/Skills/Experience/Education) are fused into running paragraphs with only the title marked, so header distinction is lost."
+markeing_5.pdf,markeing_5.md,3,"Section headers (Summary/Skills/Experience/Education) are fused into running paragraphs with only the title marked, so header distinction is lost."
+marketing_1.pdf,marketing_1.md,3,"Monogram split into its own header, dates and companies detached from bullets, and headings misused."
+marketing_2.pdf,marketing_2.md,3,"Section headers (Summary/Skills/Experience/Education) are fused into running paragraphs with only the title marked, so header distinction is lost."
+marketing_3.pdf,marketing_3.md,2,No header markup at all; the whole resume is a single run-on paragraph.
+marketing_4.pdf,marketing_4.md,3,"Section headers (Summary/Skills/Experience/Education) are fused into running paragraphs with only the title marked, so header distinction is lost."
+mechanical_1.pdf,mechanical_1.md,2,"Headers stacked at the top with all content below unlabeled, so sections cannot be told apart."
+mechanical_2.pdf,mechanical_2.md,8,"Education, Work experience, Publications and Skills are real headers with content beneath."
+mechanical_3.pdf,mechanical_3.md,8,Headers marked and entries kept in order with bold titles.
+swe_1.pdf,swe_1.md,2,"Monogram bleeds into the title and experience is scrambled into companies, dates and titles."
+swe_2.pdf,swe_2.md,2,"Sidebar content first, Education and Experience headers detached, and dates separated from jobs."
+swe_3.pdf,swe_3.md,7,"Headers are marked, though letter-spaced, with a duplicated header and run-on skills paragraph."
+swe_4.pdf,swe_4.md,8,Headers and job headings marked and entries in order; name and tagline merged.
+swe_5.pdf,swe_5.md,9,All sections are real headers and skills keep bold label/value structure.
+swe_6.pdf,swe_6.md,5,Only the name is a header; Work Experience is fused into bold text and dates trail bullets.
+swe_7.pdf,swe_7.md,9,Clear headers for every section with dates and bullets attached to roles.
+swe_8.pdf,swe_8.md,6,"Sidebar read first without bleed, but letter-spaced headers and skill groups fused into bold run."
+swe_9.pdf,swe_9.md,4,Sidebar labels split from values and job headings detached from their bullets.

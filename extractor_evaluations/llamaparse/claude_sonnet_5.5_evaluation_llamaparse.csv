@@ -1,0 +1,51 @@
+resume_name,extraction_name,extraction_score,key point
+data_science_1.pdf,data_science_1.md,9,"Clean headers, bullets, dates and all jobs preserved; only minor contact line merged with summary."
+data_science_2.pdf,data_science_2.md,6,Content recovered despite garbled PDF fonts but interests header letter-case garbled and internship header run into prior bullet; sections ok.
+data_science_3.pdf,data_science_3.md,3,"Scrambled tables: academic table header merged, project/internship labels detached and dates misattributed to wrong sections (FATAL scrambled tables)."
+data_science_4.pdf,data_science_4.md,6,Experience dates/titles in tables with first bullets absorbed into table cells and stray bold; content complete but structure uneven.
+data_science_5.pdf,data_science_5.md,7,Content and headers complete; Skills section labels scrambled (labels separated from values).
+devops_1.pdf,devops_1.md,6,Content extracted via OCR-like fix of encoded text but job dates and locations dropped; skills flat list and bullets run together.
+devops_2.pdf,devops_2.md,7,"Skills table preserved with row association; PROFESSIONAL EXPERIENCE header split into table cell, minor heading level oddities."
+devops_3.pdf,devops_3.md,7,"Long resume extracted with headings, bullets and certifications intact; some bold-formatting noise in contact lines."
+devops_4.pdf,devops_4.md,3,"Roles and responsibilities multi-column text split into table rows mid-sentence (column bleed/scrambled table, FATAL); duplicate name heading."
+devops_5.pdf,devops_5.md,3,"Flattened headers: no markdown headings at all, whole resume one run-on paragraph with merged words (FATAL flattened headers)."
+electronics_1.pdf,electronics_1.md,6,"Headers and jobs kept, but experience/project/other-experience bullets run together in bold blobs and skills line has garbled math-mode text and dates detached from first job."
+electronics_2.pdf,electronics_2.md,2,"Flattened headers fatal error: whole resume is one run-on paragraph with no headings or bullets, plus many merged words and encoding junk."
+electronics_3.pdf,electronics_3.md,3,"Image-only PDF; extraction has content but section headers (Education/Experience/Projects/Tools) are inline plain text without markdown headings, and bullets are run together (flattened headers)."
+electronics_4.pdf,electronics_4.md,6,"Clean headings and project bullets, but skills lines merged and Leadership section turned into a scrambled table with roles and dates misaligned."
+electronics_5.pdf,electronics_5.md,7,"Content complete with headers, but Education header merged into first item, skills lines merged, and some jobs/projects run into previous bullets."
+game_dev_1.pdf,game_dev_1.md,9,Two-column layout handled correctly with clear section and job headings; only a tiny ligature break in Workflow.
+game_dev_2.pdf,game_dev_2.md,2,"Column bleed fatal error: sidebar skills, languages and education interleaved into job text and headings split (SENIOR GAME PROGRAMMER UNITY), with a scrambled table."
+game_dev_3.pdf,game_dev_3.md,2,"Scrambled table and column bleed fatal errors: sidebar and main columns interleaved in table cells, dates detached from jobs, no usable section headings."
+game_dev_4.pdf,game_dev_4.md,4,"Scrambled table fatal error: Education, skills and sidebar content crammed into table cells and languages/references displaced, though project sections read well."
+game_dev_5.pdf,game_dev_5.md,8,Sidebar skills correctly separated and headers clear; minor stray page number and sidebar sections placed before name.
+graphics_design_1.pdf,graphics_design_1.md,2,Column bleed (fatal): sidebar Contact/Expertise/Software merged into Work Experience and job bullets; letter-spaced headers and split words; skills tables scrambled
+graphics_design_2.pdf,graphics_design_2.md,5,Headers OK and skills table fine but experience bullets collapsed into one bold run-on paragraph; job titles and dates detached/merged
+graphics_design_3.pdf,graphics_design_3.md,3,"Flattened headers (fatal): no section headings, whole resume one paragraph; bullets lost; many merged words and mojibake; skills table ok"
+graphics_design_4.pdf,graphics_design_4.md,3,"Flattened headers (fatal): no markdown headings, jobs run together in paragraphs, bullets lost, words merged (TechnicalDesigner etc.)"
+graphics_design_5.pdf,graphics_design_5.md,2,"Flattened headers (fatal): no headings, giant run-on text; skills list became broken table with ~40 empty rows; bullets lost, merged words, mojibake"
+graphics_design_6.pdf,graphics_design_6.md,3,"Scrambled skills table: LINKS merged into skills table (LINKS|JQUERY), SKILLS header lost and skill bars/expertise mixed; sidebar/main order mixed; section headers do exist"
+it_general_1.pdf,it_general_1.md,2,Flattened headers: no markdown headings and whole resume run together in a few blobs; bullets lost; merged words and mojibake; dates detached
+it_general_2.pdf,it_general_2.md,2,Flattened headers: zero heading markers; two-column Qualifications bullets interleaved (column bleed); bullets lost; merged words and mojibake
+it_general_3.pdf,it_general_3.md,2,Flattened headers: zero heading markers; bullets run into giant paragraphs; merged words and mojibake; sections not distinguishable
+it_general_4.pdf,it_general_4.md,2,Flattened headers: zero heading markers; jobs and bullets run together; merged words (CUSTOMERSERVICEREPRESENTATIVE) and mojibake; skills list split oddly
+it_general_5.pdf,it_general_5.md,2,"Flattened headers: no heading markers, whole resume one run-on paragraph with merged words (InformationAssurance); only Highlights table kept."
+it_general_6.pdf,it_general_6.md,2,"Flattened headers: no markdown headings, one giant blob with merged words and mojibake; skill-highlight columns interleaved and bullets lost."
+it_general_7.pdf,it_general_7.md,2,"Flattened headers: no headings, text run together with merged words (EngineeringAssociate); skills two-column list interleaved, bullets lost; content complete."
+markeing_5.pdf,markeing_5.md,2,"Flattened headers: no headings or bullets, all jobs in a single run-on paragraph with merged words; Highlights table okay."
+marketing_1.pdf,marketing_1.md,4,"Headings exist but letter-spaced; sidebar skills/languages inserted mid work-experience (reading-order bleed), education split into junk table, skills run together."
+marketing_2.pdf,marketing_2.md,2,"Flattened headers (fatal): no markdown headings, whole resume one blob; bullets lost; mojibake (Â, â€¢, ï¼) and broken words."
+marketing_3.pdf,marketing_3.md,3,Flattened headers (fatal): no headings except name/none; bullets run together into paragraphs; skills merged; many merged words and a stray ---.
+marketing_4.pdf,marketing_4.md,3,Flattened headers (fatal): no section headings; job titles/dates buried in paragraphs; bullets lost; mojibake â- artifacts and merged words; highlights table ok.
+mechanical_1.pdf,mechanical_1.md,3,Column bleed/scrambled table (fatal): Skills table interleaved into the Senior Engineer job text; SKILLS/EDUCATION/OTHER stuffed in table cells; headers partly fine.
+mechanical_2.pdf,mechanical_2.md,6,"Headers good and content complete, but bullets collapsed into run-on paragraphs under each job/education; contact line order slightly jumbled."
+mechanical_3.pdf,mechanical_3.md,6,"Content complete and headers present, but bullets become 'x' table rows and page-2 header repeated; project bullets run together."
+swe_1.pdf,swe_1.md,4,Letter-spaced headers; CONTACT SUMMARY and EDUCATION EXPERIENCE merged into single headers (flattened headers); stray S heading; skills run together.
+swe_2.pdf,swe_2.md,7,Content and sections intact with sidebar separated; letter-spaced title and bullets run together in paragraphs.
+swe_3.pdf,swe_3.md,6,Letter-spaced headers and bullets collapsed; duplicate Technical Skills header (also in original); skills run together; content complete.
+swe_4.pdf,swe_4.md,7,Good headers and dates; Redbrick company header lost and AASEE merged inline into prior bullet; minor mid-text bold issues.
+swe_5.pdf,swe_5.md,7,Good headers and bullets; skills lines run together and education locations/dates detached into one trailing line.
+swe_6.pdf,swe_6.md,4,"Experience bullets scrambled into tables, job titles and dates detached or merged across jobs (VMRC job header lost); Scrambled tables cap."
+swe_7.pdf,swe_7.md,3,"Scrambled table: experience bullets split from jobs and dates, second job merged into table row; footer junk and icon garbage; skills run together."
+swe_8.pdf,swe_8.md,3,"Column bleed: sidebar (contact, profiles, skills) interleaved with main-column education, experience and projects."
+swe_9.pdf,swe_9.md,8,Content complete with clear headers and jobs/dates preserved; sidebar sections separate; letter-spaced subtitle and odd heading levels.

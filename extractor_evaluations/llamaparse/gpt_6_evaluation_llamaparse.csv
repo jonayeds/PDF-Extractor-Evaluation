@@ -1,0 +1,51 @@
+﻿resume_name,extraction_name,extraction_score,key point
+data_science_1.pdf,data_science_1.md,9,Clear section sequence and readable experience bullets; minor formatting loss only.
+data_science_2.pdf,data_science_2.md,8,Section labels and content remain identifiable; two-column reading order is mostly preserved.
+data_science_3.pdf,data_science_3.md,8,"Major sections and table content remain recognizable, with some layout and spacing noise."
+data_science_4.pdf,data_science_4.md,7,"Most content is captured, but multi-column/table regions introduce noticeable ordering and formatting noise."
+data_science_5.pdf,data_science_5.md,9,Strong heading hierarchy and clean chronological experience extraction.
+devops_1.pdf,devops_1.md,8,"Skills, profile, and work history remain distinct; minor layout artifacts do not disrupt reading."
+devops_2.pdf,devops_2.md,8,Clear section hierarchy and readable role details; some table-style content is flattened.
+devops_3.pdf,devops_3.md,7,"Substantial content is captured, but dense tables and multi-column blocks reduce structural clarity."
+devops_4.pdf,devops_4.md,7,"Main sections survive, though dense layout and table conversion make parts harder to scan."
+devops_5.pdf,devops_5.md,9,Long-form experience content is extracted in a coherent sequence with recognizable section labels.
+electronics_1.pdf,electronics_1.md,9,"Experience, education, and skills are clearly separated; bullets and role details remain readable."
+electronics_2.pdf,electronics_2.md,9,"Long-form management experience is preserved in a coherent, readable sequence."
+electronics_3.pdf,electronics_3.md,8,Education and work-history sections are identifiable; some compact layout elements are flattened.
+electronics_4.pdf,electronics_4.md,9,"Objective, skills, and experience remain distinct with readable content."
+electronics_5.pdf,electronics_5.md,9,"Education, experience, and technical sections retain a clear hierarchy and reading order."
+game_dev_1.pdf,game_dev_1.md,9,Experience headings and project descriptions are well preserved with readable chronology.
+game_dev_2.pdf,game_dev_2.md,8,Core sections and project details are readable; some sidebar and skill content is reordered.
+game_dev_3.pdf,game_dev_3.md,0,Fatal column bleed: sidebar details and right-column work-history text are interwoven inside table rows.
+game_dev_4.pdf,game_dev_4.md,8,"Profile and project sections remain clear; education, languages, and skills are combined into broad table cells."
+game_dev_5.pdf,game_dev_5.md,9,"Skills, interests, education, and project content remain readable and distinctly labeled."
+graphics_design_1.pdf,graphics_design_1.md,7,"Most content is present, but sidebar details and work-history headings are combined in table rows."
+graphics_design_2.pdf,graphics_design_2.md,8,"Experience entries and headings are retained, though some descriptions run together."
+graphics_design_3.pdf,graphics_design_3.md,8,Skills matrix is represented as a readable table and work-history sections remain identifiable.
+graphics_design_4.pdf,graphics_design_4.md,9,"Summary, qualifications, experience, and skills remain distinct despite lost visual styling."
+graphics_design_5.pdf,graphics_design_5.md,7,"Main sections survive, but the skills area becomes a long table with many empty rows and reduced usability."
+graphics_design_6.pdf,graphics_design_6.md,8,"Personal, contact, about, education, and skills sections are separated; expertise layout is simplified."
+it_general_1.pdf,it_general_1.md,9,Experience and supporting sections are extracted in a coherent sequence with clear labels.
+it_general_2.pdf,it_general_2.md,9,"Professional profile, skills, and experience remain distinguishable and readable."
+it_general_3.pdf,it_general_3.md,9,Executive profile and career history retain a consistent section structure.
+it_general_4.pdf,it_general_4.md,9,"Summary, highlights, accomplishments, and experience are preserved in a readable order."
+it_general_5.pdf,it_general_5.md,8,Summary and experience remain clear; the highlights table is imperfect but its key items are readable.
+it_general_6.pdf,it_general_6.md,9,Long-form executive experience is preserved with recognizable section boundaries.
+it_general_7.pdf,it_general_7.md,9,"Profile, skills, accomplishments, and work history remain clearly separated."
+markeing_5.pdf,markeing_5.md,9,Highlights table and experience entries are readable with clear section labels.
+marketing_1.pdf,marketing_1.md,7,"Primary sections are identifiable, but the education/sidebar table is fragmented with many blank rows."
+marketing_2.pdf,marketing_2.md,9,"Professional summary, skills, and work history remain readable and distinct."
+marketing_3.pdf,marketing_3.md,9,"Summary, skills, education, and work history retain a coherent reading order."
+marketing_4.pdf,marketing_4.md,9,"Summary, highlights, and experience are captured cleanly with recognizable boundaries."
+mechanical_1.pdf,mechanical_1.md,0,Fatal column bleed: the skills/education sidebar table is inserted into the middle of an experience sentence.
+mechanical_2.pdf,mechanical_2.md,9,Education and work experience headings are clear and the long-form content reads coherently.
+mechanical_3.pdf,mechanical_3.md,9,"Summary, education, experience, and skills are separated and readable."
+swe_1.pdf,swe_1.md,0,Fatal flattened headers: adjacent sidebar/main-column headings collapse into labels such as “CONTACT SUMMARY” and “EDUCATION EXPERIENCE.”
+swe_2.pdf,swe_2.md,8,"Profile, contact, skills, education, and experience remain distinct; some visual hierarchy is simplified."
+swe_3.pdf,swe_3.md,7,"Major sections are present, but technical skills are duplicated and unrelated sidebar content appears after experience."
+swe_4.pdf,swe_4.md,9,"Education, skills, and work experience have clear headings and readable bullet content."
+swe_5.pdf,swe_5.md,9,"Education, skills, projects, and experience remain clearly organized with readable details."
+swe_6.pdf,swe_6.md,7,"Work history is largely captured, but multiple job entries and bullets are packed into complex tables."
+swe_7.pdf,swe_7.md,6,"Experience bullet text is detached from role headings and split across fragments, weakening section-to-content association."
+swe_8.pdf,swe_8.md,0,"Fatal column bleed: sidebar contact, education, and skills content is interleaved with main-column projects and experience."
+swe_9.pdf,swe_9.md,8,Sidebar sections are grouped separately from the profile and experience; skill categories are flattened into dense text.
